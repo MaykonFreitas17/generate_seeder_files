@@ -1,0 +1,47 @@
+Ignore arquivos de ambiente virtual
+
+venv/
+.env
+
+Ignore arquivos compilados
+
+*.pyc
+*.pyo
+pycache/
+
+Ignore logs e caches
+
+*.log
+*.sqlite3
+
+Ignore dependências
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+Ignore arquivos de IDEs
+
+.vscode/
+.idea/
+*.sublime-workspace
+
+Ignore arquivos do sistema
+
+.DS_Store
+Thumbs.db
+
+Ignore arquivos do Poetry
+
+poetry.lock
+
+Ignore arquivos gerados pelo Jupyter Notebook
+
+.ipynb_checkpoints/
+
+Ignore arquivos do pytest
+
+.cache/
+
+Ignore arquivos do Docker
+
+docker-compose.override.yml
