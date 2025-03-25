@@ -66,5 +66,5 @@ poetry run python app.py
 Caso tenha dúvidas ou queira contribuir, sinta-se à vontade para abrir uma issue ou pull request no repositório!
 
 ---
-Desenvolvido com ❤️ por [Seu Nome]
+Desenvolvido com ❤️ por Maykon Freitas
 
